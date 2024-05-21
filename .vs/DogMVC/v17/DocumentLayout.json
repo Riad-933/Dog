@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\DogMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28307D78-BFC3-4A66-A06B-FD4A02F8B0CB}|Business\\Business.csproj|c:\\users\\ca.r214.18\\desktop\\meetup\\dogmvc\\business\\service\\concrets\\dogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28307D78-BFC3-4A66-A06B-FD4A02F8B0CB}|Business\\Business.csproj|solutionrelative:business\\service\\concrets\\dogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70720E8E-BF5B-48BD-B0A2-9493771A7059}|Data\\Data.csproj|C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\DogMVC\\data\\repositoryconcrets\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70720E8E-BF5B-48BD-B0A2-9493771A7059}|Data\\Data.csproj|solutionrelative:data\\repositoryconcrets\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48100165-7AFF-4813-8F86-1C4560F9E802}|DogMVC\\DogMVC.csproj|C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\DogMVC\\dogmvc\\areas\\admin\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48100165-7AFF-4813-8F86-1C4560F9E802}|DogMVC\\DogMVC.csproj|solutionrelative:dogmvc\\areas\\admin\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48100165-7AFF-4813-8F86-1C4560F9E802}|DogMVC\\DogMVC.csproj|C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\DogMVC\\dogmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48100165-7AFF-4813-8F86-1C4560F9E802}|DogMVC\\DogMVC.csproj|solutionrelative:dogmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28307D78-BFC3-4A66-A06B-FD4A02F8B0CB}|Business\\Business.csproj|C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\DogMVC\\business\\extension\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28307D78-BFC3-4A66-A06B-FD4A02F8B0CB}|Business\\Business.csproj|solutionrelative:business\\extension\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48100165-7AFF-4813-8F86-1C4560F9E802}|DogMVC\\DogMVC.csproj|C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\DogMVC\\dogmvc\\areas\\admin\\views\\dog\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48100165-7AFF-4813-8F86-1C4560F9E802}|DogMVC\\DogMVC.csproj|solutionrelative:dogmvc\\areas\\admin\\views\\dog\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48100165-7AFF-4813-8F86-1C4560F9E802}|DogMVC\\DogMVC.csproj|C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\DogMVC\\dogmvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48100165-7AFF-4813-8F86-1C4560F9E802}|DogMVC\\DogMVC.csproj|solutionrelative:dogmvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48100165-7AFF-4813-8F86-1C4560F9E802}|DogMVC\\DogMVC.csproj|C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\DogMVC\\dogmvc\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48100165-7AFF-4813-8F86-1C4560F9E802}|DogMVC\\DogMVC.csproj|solutionrelative:dogmvc\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48100165-7AFF-4813-8F86-1C4560F9E802}|DogMVC\\DogMVC.csproj|C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\DogMVC\\dogmvc\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48100165-7AFF-4813-8F86-1C4560F9E802}|DogMVC\\DogMVC.csproj|solutionrelative:dogmvc\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48100165-7AFF-4813-8F86-1C4560F9E802}|DogMVC\\DogMVC.csproj|C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\DogMVC\\dogmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48100165-7AFF-4813-8F86-1C4560F9E802}|DogMVC\\DogMVC.csproj|solutionrelative:dogmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 249,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\DogMVC\\Business\\Extension\\Helper.cs",
+              "RelativeDocumentMoniker": "Business\\Extension\\Helper.cs",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\DogMVC\\Business\\Extension\\Helper.cs",
+              "RelativeToolTip": "Business\\Extension\\Helper.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:59:17.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DogService.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\DogMVC\\Business\\Service\\Concrets\\DogService.cs",
+              "RelativeDocumentMoniker": "Business\\Service\\Concrets\\DogService.cs",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\DogMVC\\Business\\Service\\Concrets\\DogService.cs",
+              "RelativeToolTip": "Business\\Service\\Concrets\\DogService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:58:56.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\DogMVC\\Data\\RepositoryConcrets\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Data\\RepositoryConcrets\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\DogMVC\\Data\\RepositoryConcrets\\GenericRepository.cs",
+              "RelativeToolTip": "Data\\RepositoryConcrets\\GenericRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:58:38.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DogController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\DogMVC\\DogMVC\\Areas\\Admin\\Controllers\\DogController.cs",
+              "RelativeDocumentMoniker": "DogMVC\\Areas\\Admin\\Controllers\\DogController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\DogMVC\\DogMVC\\Areas\\Admin\\Controllers\\DogController.cs",
+              "RelativeToolTip": "DogMVC\\Areas\\Admin\\Controllers\\DogController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAWwGcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:58:19.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\DogMVC\\DogMVC\\Areas\\Admin\\Views\\Dog\\Update.cshtml",
+              "RelativeDocumentMoniker": "DogMVC\\Areas\\Admin\\Views\\Dog\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\DogMVC\\DogMVC\\Areas\\Admin\\Views\\Dog\\Update.cshtml",
+              "RelativeToolTip": "DogMVC\\Areas\\Admin\\Views\\Dog\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T12:58:16.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\DogMVC\\DogMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "DogMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\DogMVC\\DogMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "DogMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:50:41.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\DogMVC\\DogMVC\\Program.cs",
+              "RelativeDocumentMoniker": "DogMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\DogMVC\\DogMVC\\Program.cs",
+              "RelativeToolTip": "DogMVC\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAtwBYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:47:17.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\DogMVC\\DogMVC\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "DogMVC\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\DogMVC\\DogMVC\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "DogMVC\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA5wCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:44:01.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\DogMVC\\DogMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DogMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\DogMVC\\DogMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DogMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:38:48.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\DogMVC\\DogMVC\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "DogMVC\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\DogMVC\\DogMVC\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "DogMVC\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T12:21:04.72Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
